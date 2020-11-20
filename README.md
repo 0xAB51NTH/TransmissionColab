@@ -8,7 +8,7 @@ Download the notebook files and open them in colab.
 
 ## Usage
 
-Click that bad boy below
+Click that bad boy ->
 <a href="https://colab.research.google.com/github/0xAB51NTH/TransmissionColab/blob/master/TranssmisionToDrive.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
