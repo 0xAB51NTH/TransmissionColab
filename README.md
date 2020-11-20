@@ -8,7 +8,10 @@ Download the notebook files and open them in colab.
 
 ## Usage
 
-Usage instructions are attached to notebook.
+Click that bad boy below
+<a href="https://colab.research.google.com/github/0xAB51NTH/TransmissionColab/blob/master/TranssmisionToDrive.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+
 NOTE: PLEASE DONT USE GPU/TPU, TRANSMISSION DOSENT REQUIRE THOSE AND MAYBE SOMEONE ELSE THERE WOULD LIKE TO UTILIZE IT FOR THEIR PROJECT/RESEARCH!
 
 ## Contributing
