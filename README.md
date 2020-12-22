@@ -9,7 +9,7 @@ Download the notebook files and open them in colab.
 ## Usage
 
 Click that bad boy ->
-<a href="https://colab.research.google.com/github/0xAB51NTH/TransmissionColab/blob/main/TranssmisionToDrive.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/0xAB51NTH/TransmissionColab/blob/main/TransmissionToDrive.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 NOTE: PLEASE DONT USE GPU/TPU, TRANSMISSION DOSENT REQUIRE THOSE AND MAYBE SOMEONE ELSE THERE WOULD LIKE TO UTILIZE IT FOR THEIR PROJECT/RESEARCH!
