@@ -1,4 +1,4 @@
-# Collab notebook for using torrenting purposes
+# Collab notebook for torrenting purposes
 
 This notebook will allow you to download torrents using colab.
 
